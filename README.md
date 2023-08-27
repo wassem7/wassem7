@@ -4,17 +4,11 @@
 - 📫 How to reach me **wassemdarkwa@gmail.com**
 <h3 align="left">Projects:</h3>
 
-<a href='https://ai-hub-sigma.vercel.app/'><h4 align="left">Svelte AI Hub
+[Svelte AI Hub](https://ai-hub-sigma.vercel.app/)
 
-</h4></a>
+[Regalia Records House](https://regalia-records-house.vercel.app/)
 
-<a href='https://regalia-records-house.vercel.app/'><h4 align="left">Regalia Records House
-
-</h4></a>
-
-<a href='https://pamluxury1.vercel.app/'><h4 align="left">PAMLUXURY
-
-</h4></a>
+[PAMLUXURY](https://pamluxury1.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
