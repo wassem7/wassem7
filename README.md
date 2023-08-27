@@ -4,7 +4,9 @@
 - 📫 How to reach me **wassemdarkwa@gmail.com**
 <h3 align="left">Projects:</h3>
 
-[Svelte AI Hub](https://ai-hub-sigma.vercel.app/)
+<!-- [Svelte AI Hub](https://ai-hub-sigma.vercel.app/) -->
+
+<a href="https://ai-hub-sigma.vercel.app/" target="_blank">Svelte AI Hub</a>
 
 [Regalia Records House](https://regalia-records-house.vercel.app/)
 
