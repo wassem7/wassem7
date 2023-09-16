@@ -11,7 +11,9 @@
 
 [Regalia Records House](https://regalia-records-house.vercel.app/)
 
-[PAMLUXURY](https://pamluxury1.vercel.app/)
+[Water Purity Sensor Dashboard ](https://waterpuritynew.vercel.app/home)
+
+[YOURNEEDS INC](https://your-needs.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
