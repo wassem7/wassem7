@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wassem Darkwa</h1>
-<h3 align="center">A FullStack Developer (TypeScript/Next.js)</h3>
+<h3 align="center">A FullStack Engineer (TypeScript/Next.js/ASP.NET)</h3>
 
 - 📫 How to reach me **wassemdarkwa@gmail.com**
 <h3 align="left">Projects:</h3>
