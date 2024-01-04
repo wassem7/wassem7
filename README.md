@@ -2,18 +2,18 @@
 <h3 align="center">A FullStack Engineer (TypeScript/Next.js/ASP.NET)</h3>
 
 - 📫 How to reach me **wassemdarkwa@gmail.com**
-<h3 align="left">Projects:</h3>
+<!-- <h3 align="left">Projects:</h3> -->
 
-[Svelte AI Hub](https://ai-hub-sigma.vercel.app/)
+<!-- [Svelte AI Hub](https://ai-hub-sigma.vercel.app/) -->
 
 <!--
 <a href="https://ai-hub-sigma.vercel.app/" target="_blank">Svelte AI Hub</a> -->
 
-[Regalia Records House](https://regalia-records-house.vercel.app/)
+<!--[Regalia Records House](https://regalia-records-house.vercel.app/)-->
 
-[Water Purity Sensor Dashboard ](https://waterpuritynew.vercel.app/home)
+<!--[Water Purity Sensor Dashboard ](https://waterpuritynew.vercel.app/home)-->
 
-[YOURNEEDS INC](https://your-needs.vercel.app/)
+<!-- [YOURNEEDS INC](https://your-needs.vercel.app/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
